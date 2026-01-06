@@ -1,4 +1,4 @@
-# Linux VM Resizer
+# Smart VM Resizer
 
 Un outil TUI (Terminal User Interface) moderne pour redimensionner vos partitions et volumes LVM à chaud sur Linux, sans redémarrage et sans maux de tête.
 

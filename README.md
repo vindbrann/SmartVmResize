@@ -38,7 +38,7 @@ sudo apt update && sudo apt install gum -y
 ## Installation rapide
 Clonez le dépôt et rendez le script exécutable :
 ```bash
-git clone [https://github.com/VOTRE-PSEUDO/linux-vm-resizer.git](https://github.com/VOTRE-PSEUDO/linux-vm-resizer.git)
+git clone https://github.com/vindbrann/SmartVmResize.git
 cd linux-vm-resizer
 chmod +x vm-resize.sh
 sudo mv vm-resize.sh /usr/local/bin/vm-resize
